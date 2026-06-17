@@ -173,16 +173,10 @@ DELETE /api/task-lists/{id}
 
 ## Screenshots
 
-Add screenshots of:
 
-- Home page
-- Task list creation
-- Task details page
+<img width="1051" height="928" alt="Screenshot 2026-06-17 101442" src="https://github.com/user-attachments/assets/df08f4ab-b8d8-4dcc-bb08-59797ce83cb9" />
 
-Example:
 
-```markdown
-![Home Page](screenshots/home.png)
 ```
 
 ---
